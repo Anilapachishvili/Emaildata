@@ -1,0 +1,41 @@
+.whitebgcolor{
+    background-color: white;
+    box-shadow: 0px 8px 53px rgb(0, 120, 240, 0.25);
+    border-radius: 10px;
+     width: 590px;
+     height: 635px;
+     margin-left: 50px;
+
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 150px;
+}
+.bg{
+    position: relative;
+    left: 250px;
+    top: -47px;
+    width: 100px;
+    height: 100px;
+    background-color:  #b2d5f8;
+    border-radius: 50px;
+    box-shadow: 0px 4px 4pz rgb(0, 120,240,0.05);
+}
+.bg img{
+    margin-top: 30px;
+}
+.logout button{
+    position: relative;
+    background-color: #0078F01A;
+    border: none;
+    width: 288.09px;
+    height: 51.22px;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #0078F0;
+    color: blue;
+    top:60px;
+    left: 0px;
+}

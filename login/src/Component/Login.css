@@ -1,0 +1,101 @@
+.bgcolor{
+    background-color: white;
+    box-shadow: 0px 8px 53px rgb(0, 120, 240, 0.25);
+    border-radius: 10px;
+     width: 590px;
+     height: 635px;
+     margin-left: 50px;
+   
+ 
+ }
+ .name{
+     position: absolute;
+     top: 250px;
+     left: ;
+ }
+ .flex{
+     display: flex;
+     justify-content: center;
+     position: relative;
+     top: 150px;
+ }
+ .text input{
+     border: none;
+     border-bottom: 1px solid #959595;
+     background: transparent;
+     outline: none;
+     width: 289px;
+     height: 45px;
+     align-items: center;
+     margin: 10px;
+     position: relative;
+     top: 20px;
+ 
+     
+ }
+ .text{
+    position: relative;
+    top: 0px;
+ }
+ h3{
+     color: #0078F080;
+     width: 68px;
+     height: 31px;
+     font-family: "Public Sans";
+     font-weight: 400;
+     font-size: 26px;
+     position: relative;
+     left: 255px;
+     top: 0px;
+ }
+ p{
+     color: #00000099;
+     width: 454;
+     height: 21px;
+     font-family: "Public Sans";
+     font-size: 18px;
+     font-weight: 400;
+     line-height: 21px;
+     letter-spacing: 0em;
+     text-align: center;
+     position: relative;
+     top: 10px;
+ 
+ }
+ .btn button{
+     position: relative;
+   background-color: #0078F01A;
+   border: none;
+   width: 288.09px;
+   height: 51.22px;
+   border-radius: 10px;
+   box-sizing: border-box;
+   border: 1px solid #0078F0;
+   color: blue;
+   top:140px;
+   left: 0px;
+ }
+ .blucolor{
+     position: relative;
+     left: 240px;
+     top: -47px;
+   width: 100px;
+   height: 100px;
+   background-color:  #b2d5f8;
+   border-radius: 50px;
+   box-shadow: 0px 4px 4pz rgb(0, 120,240,0.05);
+ 
+ }
+ .blucolor img{
+    margin-top: 35px;
+ }
+ .icon{
+     position: absolute;
+     right: 160px;
+     top: 50px;
+ }
+ .eye{
+     position: absolute;
+     right: 160px;
+     top: 50px;
+ }
